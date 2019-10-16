@@ -1,5 +1,7 @@
 {
   "name": "ticketBlock",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
